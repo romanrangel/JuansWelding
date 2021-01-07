@@ -1,0 +1,15 @@
+.footer {
+    padding: 1%;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    /* background-color:yellow; */
+    /* color: white; */
+}
+
+.footer h2 {
+    font-size: 20px;
+}
+.jumbotron {
+    margin:0;
+}
